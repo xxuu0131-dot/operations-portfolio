@@ -1,0 +1,9 @@
+模拟ID,模拟链接,原点赞,点赞增量,收藏增量,notePageNum任务值,执行状态,失败原因,待复核
+DEMO-N001,https://demo.invalid/note/DEMO-N001,8,7,4,1286,成功,,否
+DEMO-N002,https://demo.invalid/note/DEMO-N002,14,12,6,1743,成功,,否
+DEMO-N003,https://demo.invalid/note/DEMO-N003,26,19,10,2058,成功,,否
+DEMO-N004,https://demo.invalid/note/DEMO-N004,42,25,13,2631,成功,,否
+DEMO-N005,https://demo.invalid/note/DEMO-N005,10,5,3,1164,成功,,否
+DEMO-N006,https://demo.invalid/note/DEMO-N006,19,15,8,2917,成功,,否
+DEMO-N007,https://demo.invalid/note/DEMO-N007,33,24,12,2210,失败,后台页面响应超时且任务未提交,是
+DEMO-N008,https://demo.invalid/broken-link,,,,,失败,链接格式无效且未解析出内容ID,是
